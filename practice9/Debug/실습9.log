@@ -1,0 +1,11 @@
+﻿  소스.c
+C:\Users\User\source\repos\실습9\소스.c(34,20): warning C4047: '함수': 'char *'의 간접 참조 수준이 'char (*)[100]'과(와) 다릅니다.
+C:\Users\User\source\repos\실습9\소스.c(34,11): warning C4024: 'flip_str': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\User\source\repos\실습9\소스.c(69,32): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\User\source\repos\실습9\소스.c(92,33): warning C4047: '=': 'char'의 간접 참조 수준이 'char *'과(와) 다릅니다.
+C:\Users\User\source\repos\실습9\소스.c(124,15): warning C4047: '=': 'char'의 간접 참조 수준이 'char [2]'과(와) 다릅니다.
+C:\Users\User\source\repos\실습9\소스.c(126,32): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\User\source\repos\실습9\소스.c(114,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\User\source\repos\실습9\소스.c(135,26): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\User\source\repos\실습9\소스.c(143,17): warning C4047: '=': 'char'의 간접 참조 수준이 'char [2]'과(와) 다릅니다.
+  실습9.vcxproj -> C:\Users\User\source\repos\실습9\Debug\실습9.exe

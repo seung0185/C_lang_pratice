@@ -1,0 +1,7 @@
+﻿  소스.c
+C:\Users\User\source\repos\실습10\소스.c(111,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\User\source\repos\실습10\소스.c(52,18): warning C4101: 'type' :참조되지 않은 지역 변수입니다.
+C:\Users\User\source\repos\실습10\소스.c(143,14): warning C4047: '=': 'int *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\User\source\repos\실습10\소스.c(145,20): warning C4047: '<=': 'int *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\User\source\repos\실습10\소스.c(146,16): warning C4047: '=': 'int *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+  실습10.vcxproj -> C:\Users\User\source\repos\실습10\Debug\실습10.exe
